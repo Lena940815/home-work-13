@@ -1,0 +1,11 @@
+.rect {
+  fill: red;
+  stroke-width: 5;
+  stroke: purple;
+  opacity: 0.5;
+}
+.rect:hover {
+  stroke: brown;
+  fill: antiquewhite;
+  opacity: 0.9;
+}
